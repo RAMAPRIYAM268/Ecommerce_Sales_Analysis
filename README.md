@@ -174,7 +174,7 @@ Add your dashboard screenshot inside the **Images** folder.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/E-commerce-Sales-Analysis.git
+git clone https://github.com/RAMAPRIYAM268/Ecommerce_Sales_Analysis.git
 ```
 
 Open the Excel workbook using **Microsoft Excel**.
