@@ -161,11 +161,11 @@ E-commerce-Sales-Analysis/
 
 # Dashboard Preview
 
-Add your dashboard screenshot inside the **Images** folder.
 
-```markdown
+
+
 ![E-commerce Sales Dashboard](Images/Dashboard.png)
-```
+
 
 ---
 
